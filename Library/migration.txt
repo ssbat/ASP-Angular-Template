@@ -1,0 +1,1 @@
+dotnet ef migrations add Initial --startup-project LaptopShop --project Library --context AppDbContext
