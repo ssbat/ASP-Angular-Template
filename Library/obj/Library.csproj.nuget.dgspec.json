@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\saad_\\Desktop\\LaptopShop\\Library\\Library.csproj": {}
+    "C:\\Users\\saad_\\Desktop\\ASP-Angular-Template\\Library\\Library.csproj": {}
   },
   "projects": {
-    "C:\\Users\\saad_\\Desktop\\LaptopShop\\Library\\Library.csproj": {
+    "C:\\Users\\saad_\\Desktop\\ASP-Angular-Template\\Library\\Library.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\saad_\\Desktop\\LaptopShop\\Library\\Library.csproj",
+        "projectUniqueName": "C:\\Users\\saad_\\Desktop\\ASP-Angular-Template\\Library\\Library.csproj",
         "projectName": "Library",
-        "projectPath": "C:\\Users\\saad_\\Desktop\\LaptopShop\\Library\\Library.csproj",
+        "projectPath": "C:\\Users\\saad_\\Desktop\\ASP-Angular-Template\\Library\\Library.csproj",
         "packagesPath": "C:\\Users\\saad_\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\saad_\\Desktop\\LaptopShop\\Library\\obj\\",
+        "outputPath": "C:\\Users\\saad_\\Desktop\\ASP-Angular-Template\\Library\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\saad_\\AppData\\Roaming\\NuGet\\NuGet.Config",
